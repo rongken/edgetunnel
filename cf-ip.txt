@@ -1,6 +1,6 @@
 vista.com#线路维护rong920113
-104.27.0.0#US-CF1
-104.16.0.0#US-CF2
+cdns.doon.eu.org#US-CF1
+cf.zhetengsha.eu.org#US-CF2
 49.0.233.29:443#HK
 101.32.12.79:443#HK
 157.254.32.120:10122#HK
