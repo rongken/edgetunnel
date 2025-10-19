@@ -1,6 +1,9 @@
 vista.com#线路维护rong920113
 cdns.doon.eu.org#US-CF1
 cf.zhetengsha.eu.org#US-CF2
+mfa.gov.ua#三网01
+xn--ktff-jt6hr36l.tencentapp.cn#三网02
+cloudflare-ip.mofashi.ltd#三网03
 49.0.233.29:443#HK
 103.225.22.54:4433#HK
 108.162.192.123:443#HK
