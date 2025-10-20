@@ -1,4 +1,4 @@
-vista.com#线路维护rong920113
+172.64.149.209#线路维护rong920113
 cdns.doon.eu.org#US-CF1
 cf.zhetengsha.eu.org#US-CF2
 mfa.gov.ua#三网01
