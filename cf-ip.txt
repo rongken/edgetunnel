@@ -17,7 +17,6 @@ cloudflare-ip.mofashi.ltd#三网03
 183.236.51.220:7004#TW1
 61.220.128.226:43#TW2
 183.236.51.201:7005#TW3
-103.99.179.87:12373#US-AI
 104.234.161.149:31426#US-AI
 cloudflare-mainland-china-optimized-ip.oeo.ee#三网自动
 cmcc.090227.xyz#移动优化
