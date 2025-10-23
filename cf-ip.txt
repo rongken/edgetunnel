@@ -31,5 +31,4 @@ cf.090227.xyz:2083#自适应
 cf.877774.xyz:2087#自适应2
 cmcc.090227.xyz:443#移动1
 time.is:8443#移动2
-mfa.gov.ua:2096#电信1
 www.shopify.com:2053#电信2
