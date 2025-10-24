@@ -5,7 +5,6 @@ mfa.gov.ua#三网01
 xn--ktff-jt6hr36l.tencentapp.cn#三网02
 cloudflare-ip.mofashi.ltd#三网03
 46.232.109.23:41553#HK
-103.225.22.54:4433#HK
 108.162.192.123:443#HK
 43.161.239.49:10001#HK
 46.232.108.59:40996#HK-CF
@@ -15,7 +14,6 @@ cloudflare-ip.mofashi.ltd#三网03
 23.27.11.203:34309#日本2
 210.61.97.241:81#TW
 183.236.51.220:7004#TW1
-61.220.128.226:43#TW2
 183.236.51.201:7005#TW3
 104.234.161.149:31426#US-AI
 cloudflare-mainland-china-optimized-ip.oeo.ee#三网自动
