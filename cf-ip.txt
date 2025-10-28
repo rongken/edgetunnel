@@ -10,7 +10,7 @@ cloudflare-ip.mofashi.ltd#三网03
 46.3.108.54:2832#HK
 47.57.190.228:8388#HK
 172.65.90.42:443#HK-CF
-157.254.32.124:36744#HK-CF2
+106.53.123.237:33334#HK-CF2
 14.215.25.250:18080#HK-CF2
 45.142.166.36:32025#日本
 172.65.90.14:443#日本2
@@ -22,6 +22,7 @@ cloudflare-ip.mofashi.ltd#三网03
 14.32.95.148:25212#KR1
 124.111.208.233:10353KR2
 104.234.161.149:31426#US-AI
+saas.sin.fan#三网电信
 cloudflare-mainland-china-optimized-ip.oeo.ee#三网自动
 cmcc.090227.xyz#移动优化
 cf.zhetengsha.eu.org#联通优化
