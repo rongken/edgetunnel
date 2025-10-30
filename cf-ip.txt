@@ -25,6 +25,7 @@ cmcc.090227.xyz#移动优化
 cf.zhetengsha.eu.org#联通优化
 ct.090227.xyz#电信优化
 cf.877774.xyz#美国_三网优化
+dick.frii.site#US
 www.visa.com.tw:443#US2
 www.fortnite.com:443#US3
 icook.hk:443#US5
