@@ -35,3 +35,5 @@ cf.877774.xyz:2087#自适应2
 cmcc.090227.xyz:443#移动1
 time.is:8443#移动2
 www.shopify.com:2053#电信2
+store.ubi.com:443#三网优化CF
+cdns.doon.eu.org:443#三网优化CF
