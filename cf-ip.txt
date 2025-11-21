@@ -19,6 +19,7 @@ xn--ktff-jt6hr36l.tencentapp.cn#三网02
 saas.sin.fan#三网电信
 cloudflare-mainland-china-optimized-ip.oeo.ee#三网自动
 cmcc.090227.xyz#移动优化
+openai.com#移动优化
 cf.zhetengsha.eu.org#联通优化
 ct.090227.xyz#电信优化
 cf.877774.xyz#美国_三网优化
