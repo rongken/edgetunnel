@@ -1,5 +1,4 @@
 172.64.149.209#线路维护rong920113
-154.26.190.103:23456#美国
 cdns.doon.eu.org#US-CF1
 cf.zhetengsha.eu.org#US-CF2
 162.159.44.67:443#三网动态IP
