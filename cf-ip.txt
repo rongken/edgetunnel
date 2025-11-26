@@ -37,13 +37,3 @@ cdns.doon.eu.org:443#三网优化CF
 162.159.46.154#电信优化
 104.26.6.28#联通优化
 104.19.56.94#移动优化
-
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@14.215.25.250:18080?encryption=none&security=tls&sni=testsni.696769.xyz&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fsocks5%3A%2F%2FMTIzOjEyMw%3D%3D%4043.100.99.154%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@staticdelivery.nexusmods.com:443?encryption=none&security=tls&sni=testsni.696769.xyz&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fsocks5%3A%2F%2FMTIzOjEyMw%3D%3D%4043.100.58.144%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@183.251.223.39:1234?encryption=none&security=tls&sni=testsni.696769.xyz&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fsocks5%3A%2F%2FMTIzOjEyMw%3D%3D%4043.100.99.155%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@14.215.25.250:18080?encryption=none&security=tls&sni=testsni.696769.xyz&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fsocks5%3A%2F%2FMTIzOjEyMw%3D%3D%4043.100.62.202%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@staticdelivery.nexusmods.com:443?encryption=none&security=tls&sni=testsni.696769.xyz&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fsocks5%3A%2F%2FMTIzOjEyMw%3D%3D%4043.100.61.243%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@mfa.gov.ua:443?encryption=none&security=tls&sni=testsni.696769.xyz&fp=random&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fhttp%3A%2F%2FMjIyMjoyMjIy%4047.239.133.104%3A2222#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@mfa.gov.ua:443?encryption=none&security=tls&sni=testsni.696769.xyz&fp=random&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fhttp%3A%2F%2FNTU1NTo1NTU1%4047.242.35.79%3A5555#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-vless://5ce93f28-3ca1-4190-8347-7774413ab1a1@mfa.gov.ua:443?encryption=none&security=tls&sni=testsni.696769.xyz&fp=random&insecure=1&allowInsecure=1&type=ws&host=testsni.696769.xyz&path=%2Fhttp%3A%2F%2FMTIzOjEyMw%3D%3D%408.217.13.157%3A3060#CF-%E9%98%BF%E9%87%8C%E4%BA%91
-
