@@ -30,13 +30,10 @@ cf.zhetengsha.eu.org#联通优化
 ct.090227.xyz#电信优化
 cf.877774.xyz#美国_三网优化
 dick.frii.site#US
-www.visa.com.tw:443#US2
 www.fortnite.com:443#US3
-icook.hk:443#US5
 cf.090227.xyz:2083#自适应
 cf.877774.xyz:2087#自适应2
 cmcc.090227.xyz:443#移动1
-time.is:8443#移动2
 www.shopify.com:2053#电信2
 store.ubi.com:443#三网优化CF
 cdns.doon.eu.org:443#三网优化CF
