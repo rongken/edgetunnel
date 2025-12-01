@@ -5,6 +5,7 @@ cf.zhetengsha.eu.org#US-CF2
 mfa.gov.ua#三网01
 xn--ktff-jt6hr36l.tencentapp.cn#三网02
 108.165.155.194:59649#HK
+103.225.22.54:4433#HK
 46.232.106.38:8223#HK
 46.3.108.54:2832#HK
 46.232.106.38:8223#HK
