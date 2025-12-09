@@ -34,8 +34,6 @@ ct.090227.xyz#电信优化
 cf.877774.xyz#美国_三网优化
 dick.frii.site#US
 www.fortnite.com:443#US3
-5h.com#自适应
-www.wuhan.com#自适应2
 cmcc.090227.xyz:443#移动1
 www.shopify.com:2053#电信2
 store.ubi.com:443#三网优化CF
