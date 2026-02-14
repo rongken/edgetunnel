@@ -39,4 +39,5 @@ cf.zhetengsha.eu.org#联通优化
 ct.090227.xyz#电信优化
 cf.877774.xyz#美国_三网优化
 www.shopify.com:2053#电信2
-store.ubi.com:443#三网优化CF
+blog.646474.xyz:443#三网优化CF
+fn.130519.xyz#三网优化CF2
